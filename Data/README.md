@@ -25,4 +25,7 @@ Ce projet s'appuie sur deux bases de données principales, combinées pour analy
 Les deux bases ont été fusionnées sur la base des départements et des années pour relier les quantités de polluants émises à la prévalence des pathologies. Cette approche permet d'exploiter la relation temporelle entre pollution et santé en considérant un délai de 8 à 10 ans entre l'exposition aux polluants et l'apparition des maladies.
 
 ---
+## Liens vers les Datasets
+Lien 1:  
+Lien 2:
 
